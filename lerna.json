@@ -5,7 +5,7 @@
     "packages/qomponents"
   ],
   "useWorkspaces": true,
-  "version": "2.0.6",
+  "version": "2.0.7",
   "stream": true,
   "hoist": true,
   "bootstrap": [
