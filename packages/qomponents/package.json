@@ -1,6 +1,6 @@
 {
   "name": "@seeqdev/qomponents",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -54,5 +54,5 @@
     "ts-jest": "^26.5.6",
     "typescript": "^4.4.2"
   },
-  "gitHead": "8c4e3a0a8291d3b9697fb6c34055c306f283b8eb"
+  "gitHead": "6f3a5440b5c5f5c73e04f725b463ff2f60ebc825"
 }
