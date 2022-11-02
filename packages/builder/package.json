@@ -28,5 +28,5 @@
     "rollup": "^3.2.3",
     "rollup-plugin-peer-deps-external": "*"
   },
-  "gitHead": "3cc56e5a6d4d4580f1a85dc9112275ab4f3fee3f"
+  "gitHead": "5e1eb47f2adcbf6a1715945ab99ebd5fc03bdcf3"
 }
