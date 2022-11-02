@@ -1,6 +1,6 @@
 {
   "name": "@seeqdev/builder",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "birgit martinelle <birgit@seeq.com>",
@@ -28,5 +28,5 @@
     "rollup": "^3.2.3",
     "rollup-plugin-peer-deps-external": "*"
   },
-  "gitHead": "45bafe4bbd5585dfecb457b7532031821974f230"
+  "gitHead": "855355672ed53a43d9c34435b81b2c0e01dba76c"
 }
