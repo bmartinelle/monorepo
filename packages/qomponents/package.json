@@ -8,6 +8,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A library that allows you to build native UIs ... TODO",
   "scripts": {
     "build": "rollup -c",
