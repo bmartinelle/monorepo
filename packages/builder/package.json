@@ -27,5 +27,6 @@
     "@rollup/plugin-node-resolve": "^15.0.0",
     "rollup": "^3.2.3",
     "rollup-plugin-peer-deps-external": "*"
-  }
+  },
+  "gitHead": "4372f2d58b05e73221a659381da35d78e1cfa45b"
 }
