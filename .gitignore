@@ -1,1 +1,5 @@
-/packages/qomponents/package-lock.json
+/packages/webserver/node_modules/
+/packages/qomponents/node_modules/
+/packages/builder/node_modules/
+/packages/qomponents/dist/
+/packages/webserver/build/
