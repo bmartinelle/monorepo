@@ -1,6 +1,6 @@
 {
   "name": "@seeqdev/qomponents",
-  "version": "2.0.15",
+  "version": "2.0.16",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -13,6 +13,7 @@
   },
   "description": "A library that allows you to build native UIs ... TODO",
   "scripts": {
+    "build": "rollup -c",
     "test": "jest",
     "test:watch": "jest --watch",
     "storybook": "start-storybook -p 6006",
