@@ -13,7 +13,13 @@
   "workspaces": [
     "packages/*"
   ],
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https:git@github.com:bmartinelle/monorepo.git"
+  },
   "devDependencies": {
-    "lerna": "^6.0.1"
+    "lerna": "^6.0.1",
+    "lerna-changelog": "^2.2.0"
   }
 }

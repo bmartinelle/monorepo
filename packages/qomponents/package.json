@@ -8,6 +8,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https:git@github.com:bmartinelle/monorepo.git"
+  },
   "publishConfig": {
     "access": "public"
   },
